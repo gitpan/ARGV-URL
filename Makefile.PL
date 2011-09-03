@@ -22,9 +22,9 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'LWP' => '5'
   },
-  'VERSION' => '0.91',
+  'VERSION' => '0.92',
   'test' => {
-    'TESTS' => ''
+    'TESTS' => 't/*.t'
   }
 );
 

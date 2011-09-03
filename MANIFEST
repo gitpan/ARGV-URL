@@ -6,3 +6,5 @@ Makefile.PL
 README
 dist.ini
 lib/ARGV/URL.pm
+t/00_compile.t
+t/01_basic.t

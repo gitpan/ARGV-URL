@@ -1,7 +1,7 @@
 package ARGV::URL;
 
 BEGIN {
-    our $VERSION = '0.91';
+    our $VERSION = '0.92';
 }
 
 sub import
@@ -71,6 +71,8 @@ About the diamond operator (C<<>>): L<perlopentut/Filters>, L<perlop/"I/O Operat
 =item *
 
 Some other modules that adds magic to C<@ARGV>: L<ARGV::readonly>, L<Encode::Argv>
+
+=back
 
 =head1 AUTHOR
 
